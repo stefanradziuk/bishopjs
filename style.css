@@ -1,0 +1,17 @@
+body {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+#table {
+  font-family: "Cascadia Code", "Fira Code", "Fira Mono", monospace;
+
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+}
